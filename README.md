@@ -2,7 +2,7 @@
 This repository provides code for generating missense-variant containing proteomic search databases (FASTA). 
 ### Table of Contents: 
 
-- [Generating sample-specifc variant containing FASTA databases](https://github.com/hdesai17/chemoproteogenomics#custom-database-generation)
+- Generating sample-specifc variant containing FASTA databases
    - option for including all combinations of variants
 
 ## Custom Database Generation
