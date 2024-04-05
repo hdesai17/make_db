@@ -1,4 +1,4 @@
-# Create protegenomic databases 
+# Create protegenomic databases (+/- all combinations of variants)
 This repository provides code for generating missense-variant containing proteomic search databases (FASTA). 
 ### Table of Contents: 
 
