@@ -16,7 +16,9 @@ VCF processing:
 #### Before Running
  1. Download or clone the repo
 
-```git clone https://github.com/hdesai17/chemoproteogenomics.git```
+```
+git clone https://github.com/hdesai17/chemoproteogenomics.git
+```
    
  2. Move VCF file into the root directory (_../chemoproteogenomics_) or make sure the working directory contains VCF, Annotations/Tools folders and GenerateBD.sh script \
    A sample VCF file is [here](https://drive.google.com/drive/folders/1w1EaQC7q5uVudEMCGo-zREVJhK-YOC13?usp=sharing)
