@@ -48,7 +48,7 @@ mv *common /path/to/working/directory/Annotations/
 #### Running
 
 ```
-./GenerateDB.sh [sample name] [TRUE/FALSE]`
+./GenerateDB.sh [sample name] [TRUE/FALSE]
 ```
 or
 ```
